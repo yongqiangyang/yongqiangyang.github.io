@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 数据库系统-数据库系统概述
+title: 数据库系统-第一章：数据库系统概述
 categories: 数据库系统
 description: 数据库系统课程笔记
 keywords: DBS，课程笔记
