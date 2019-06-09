@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OS课程笔记
-categories: blog
+categories: 操作系统
 description: 刘亮老师的OS课程
 keywords: OS，课程笔记
 ---
