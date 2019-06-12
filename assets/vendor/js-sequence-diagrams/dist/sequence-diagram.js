@@ -795,7 +795,7 @@ Diagram.parse = function(input) {
   // Parse
   var diagram = parser.parse(input);
 
-  // Then clean up the parseError key that a user won't care about
+  // Then clean up the parseError key that a user won't care contact
   delete diagram.parseError;
   return diagram;
 };
