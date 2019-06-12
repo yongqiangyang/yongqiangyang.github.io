@@ -4,8 +4,8 @@
 baseurl:
 url: https://yongqiangyang.github.io/
 date_format: "ordinal"
-title: 这是个大标题
-subtitle: "我该写什么子标题呢？"
+title: 个人博客
+subtitle: "这是某人的个人博客"
 description: "杨永强的个人博客"
 keywords: yangyongqiang,
 timezone: Asia/Shanghai
@@ -38,9 +38,9 @@ navs:
 #     href: /archives/
 #     label: 归档
 
-  -
-    href: /wiki/
-    label: 维基
+  # -
+  #   href: /wiki/
+  #   label: 维基
 
   -
     href: /links/
