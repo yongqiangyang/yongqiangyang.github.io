@@ -1,11 +1,11 @@
 ---
 layout: page
 title: contact
-description: 
+description:
 keywords: yongqiangyang,杨永强
 comments: true
-menu: 关于
-permalink: /about/
+menu: 联系
+permalink: /contact/
 ---
 
 我是谁呢？你猜猜看呀！
